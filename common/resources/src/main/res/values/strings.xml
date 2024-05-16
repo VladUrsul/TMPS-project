@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">RemindTask</string>
+    <string name="tasks_menu">Sarcini</string>
+    <string name="notes_menu">Note</string>
+    <string name="no_tasks">Nicio sarcină</string>
+    <string name="new_task">Sarcină Nouă</string>
+    <string name="edit_task">Editează Sarcină</string>
+    <string name="close">Închide</string>
+    <string name="save">Salvează</string>
+    <string name="cancel">Anulează</string>
+    <string name="ok">OK</string>
+    <string name="select_date">Selectează data</string>
+    <string name="date">Data</string>
+    <string name="time">Timpul</string>
+    <string name="select_time">Selectează timpul</string>
+    <string name="add_title">Adaugă titlu</string>
+    <string name="add_description">Adaugă descriere</string>
+    <string name="check">bifează</string>
+    <string name="delete_task_message">Sigur dorești să ștergi această sarcină?</string>
+    <string name="delete_task_title">Șterge Sarcină</string>
+    <string name="discard_task_message">Sigur dorești să renunți la modificările acestei sarcini?</string>
+    <string name="discard_task_title">Renunță la Sarcină</string>
+    <string name="delete_note_message">Sigur dorești să ștergi această notă?</string>
+    <string name="delete_note_title">Șterge Notă</string>
+    <string name="discard_note_message">Sigur dorești să renunți la modificările acestei note?</string>
+    <string name="discard_note_title">Renunță la Notă</string>
+    <string name="delete">Șterge</string>
+    <string name="new_note">Notă Nouă</string>
+    <string name="edit_note">Editează Notă</string>
+    <string name="edit">Editează</string>
+    <string name="note">Notă</string>
+    <string name="discard">Renunță</string>
+    <string name="task">Sarcină</string>
+    <string name="search">Caută</string>
+    <string name="filter">Filtrează</string>
+</resources>
